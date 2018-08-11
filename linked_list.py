@@ -12,8 +12,6 @@ class Node:
     def __init__(self,val):
         self.val=val            #data in each node
         self.next=None          #Initially only one node
-    def traversing(self):
-        pass
 
 
 if __name__=='__main__':
